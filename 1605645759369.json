@@ -1,0 +1,352 @@
+[{
+    "which": [{
+        "text": "which",
+        "pos": "determiner / pronoun",
+        "ts": "wɪʧ",
+        "tr": [{
+            "text": "who",
+            "pos": "pronoun"
+        }, {
+            "text": "where",
+            "pos": "conjunction",
+            "syn": [{
+                "text": "whereby",
+                "pos": "conjunction"
+            }]
+        }, {
+            "text": "that",
+            "pos": "conjunction"
+        }, {
+            "text": "whichever",
+            "pos": "determiner / pronoun",
+            "syn": [{
+                "text": "what",
+                "pos": "determiner / pronoun"
+            }, {
+                "text": "whatever",
+                "pos": "determiner / pronoun"
+            }, {
+                "text": "some",
+                "pos": "determiner / pronoun"
+            }]
+        }, {
+            "text": "to",
+            "pos": "preposition"
+        }]
+    }]
+}, {
+    "their": [{
+        "text": "their",
+        "pos": "determiner",
+        "ts": "ðeə",
+        "tr": [{
+            "text": "his",
+            "pos": "determiner / pronoun",
+            "syn": [{
+                "text": "its",
+                "pos": "determiner / pronoun"
+            }]
+        }, {
+            "text": "theirs",
+            "pos": "pronoun"
+        }]
+    }]
+}, {
+    "there": [{
+        "text": "there",
+        "pos": "adverb",
+        "ts": "ðeə",
+        "tr": [{
+            "text": "thither",
+            "pos": "adverb",
+            "syn": [{
+                "text": "out here",
+                "pos": "adverb"
+            }, {
+                "text": "over here",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "have",
+            "pos": "verb",
+            "syn": [{
+                "text": "exist",
+                "pos": "verb"
+            }]
+        }, {
+            "text": "where",
+            "pos": "conjunction"
+        }]
+    }]
+}, {
+    "would": [{
+        "text": "would",
+        "pos": "noun",
+        "ts": "wʊd",
+        "tr": [{
+            "text": "should",
+            "pos": "noun"
+        }]
+    }]
+}, {
+    "could": [{
+        "text": "could",
+        "pos": "noun",
+        "ts": "kʊd",
+        "tr": [{
+            "text": "may",
+            "pos": "noun",
+            "syn": [{
+                "text": "might",
+                "pos": "noun"
+            }, {
+                "text": "can",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "being able",
+            "pos": "adjective",
+            "syn": [{
+                "text": "possible",
+                "pos": "adjective"
+            }, {
+                "text": "able",
+                "pos": "adjective"
+            }]
+        }]
+    }]
+}, {
+    "Prince": [{
+        "text": "prince",
+        "pos": "noun",
+        "ts": "prɪns",
+        "tr": [{
+            "text": "duke",
+            "pos": "noun",
+            "syn": [{
+                "text": "sovereign",
+                "pos": "noun"
+            }, {
+                "text": "ruler",
+                "pos": "noun"
+            }, {
+                "text": "king",
+                "pos": "noun"
+            }, {
+                "text": "lord",
+                "pos": "noun"
+            }, {
+                "text": "captain",
+                "pos": "noun"
+            }, {
+                "text": "your majesty",
+                "pos": "noun"
+            }, {
+                "text": "mogul",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "tsarevitch",
+            "pos": "noun",
+            "syn": [{
+                "text": "tsarevich",
+                "pos": "noun"
+            }]
+        }]
+    }]
+}, {
+    "about": [{
+        "text": "about",
+        "pos": "preposition",
+        "ts": "əˈbaʊt",
+        "tr": [{
+            "text": "regarding",
+            "pos": "preposition"
+        }, {
+            "text": "approximately",
+            "pos": "adverb",
+            "syn": [{
+                "text": "next to",
+                "pos": "adverb"
+            }, {
+                "text": "nigh",
+                "pos": "adverb"
+            }, {
+                "text": "roughly",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "around",
+            "pos": "preposition",
+            "syn": [{
+                "text": "near",
+                "pos": "preposition"
+            }, {
+                "text": "over",
+                "pos": "preposition"
+            }]
+        }, {
+            "text": "with respect",
+            "pos": "adverb",
+            "syn": [{
+                "text": "in relation to",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "nearly",
+            "pos": "particle"
+        }, {
+            "text": "just about",
+            "pos": "adverb",
+            "syn": [{
+                "text": "virtually",
+                "pos": "adverb"
+            }, {
+                "text": "almost",
+                "pos": "adverb"
+            }, {
+                "text": "practically",
+                "pos": "adverb"
+            }, {
+                "text": "somewhere",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "some",
+            "pos": "determiner / pronoun"
+        }, {
+            "text": "round",
+            "pos": "noun"
+        }, {
+            "text": "concerning",
+            "pos": "participle"
+        }, {
+            "text": "like",
+            "pos": "verb",
+            "syn": [{
+                "text": "say",
+                "pos": "verb"
+            }]
+        }, {
+            "text": "or so",
+            "pos": "conjunction"
+        }, {
+            "text": "much",
+            "pos": "determiner / pronoun",
+            "syn": [{
+                "text": "most",
+                "pos": "determiner / pronoun"
+            }]
+        }]
+    }]
+}, {
+    "other": [{
+        "text": "other",
+        "pos": "adjective",
+        "ts": "ˈʌðə",
+        "tr": [{
+            "text": "another",
+            "pos": "determiner / pronoun"
+        }, {
+            "text": "others",
+            "pos": "pronoun"
+        }, {
+            "text": "by the other",
+            "pos": "adverb",
+            "syn": [{
+                "text": "else",
+                "pos": "adverb"
+            }, {
+                "text": "differently",
+                "pos": "adverb"
+            }, {
+                "text": "once",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "diverse",
+            "pos": "adjective",
+            "syn": [{
+                "text": "different",
+                "pos": "adjective"
+            }, {
+                "text": "distinct",
+                "pos": "adjective"
+            }]
+        }, {
+            "text": "further",
+            "pos": "adjective",
+            "syn": [{
+                "text": "additional",
+                "pos": "adjective"
+            }]
+        }, {
+            "text": "more",
+            "pos": "adverb",
+            "syn": [{
+                "text": "farther",
+                "pos": "adverb"
+            }]
+        }, {
+            "text": "dissimilar",
+            "pos": "adjective"
+        }, {
+            "text": "miscellaneous",
+            "pos": "noun",
+            "syn": [{
+                "text": "fresh",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "past",
+            "pos": "noun",
+            "syn": [{
+                "text": "old",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "distant",
+            "pos": "adjective"
+        }, {
+            "text": "disparate",
+            "pos": "noun"
+        }]
+    }]
+}, {
+    "should": [{
+        "text": "should",
+        "pos": "noun",
+        "ts": "ʃʊd",
+        "tr": [{
+            "text": "need",
+            "pos": "noun",
+            "syn": [{
+                "text": "must",
+                "pos": "noun"
+            }, {
+                "text": "necessary",
+                "pos": "noun"
+            }, {
+                "text": "ought",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "if",
+            "pos": "conjunction",
+            "syn": [{
+                "text": "unless",
+                "pos": "conjunction"
+            }]
+        }, {
+            "text": "would",
+            "pos": "noun",
+            "syn": [{
+                "text": "shall",
+                "pos": "noun"
+            }]
+        }, {
+            "text": "have",
+            "pos": "verb"
+        }]
+    }]
+}]
