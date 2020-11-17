@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeay/chatbotAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeay/chatbotAssignment/issues"
+  },
+  "homepage": "https://github.com/zeay/chatbotAssignment#readme"
+}
